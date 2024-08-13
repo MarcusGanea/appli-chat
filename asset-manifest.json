@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/appli-chat/static/css/main.ec6dcf85.css",
+    "main.css": "/appli-chat/static/css/main.e6c13ad2.css",
     "main.js": "/appli-chat/static/js/main.ff99eedf.js",
     "index.html": "/appli-chat/index.html",
-    "main.ec6dcf85.css.map": "/appli-chat/static/css/main.ec6dcf85.css.map",
+    "main.e6c13ad2.css.map": "/appli-chat/static/css/main.e6c13ad2.css.map",
     "main.ff99eedf.js.map": "/appli-chat/static/js/main.ff99eedf.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec6dcf85.css",
+    "static/css/main.e6c13ad2.css",
     "static/js/main.ff99eedf.js"
   ]
 }
