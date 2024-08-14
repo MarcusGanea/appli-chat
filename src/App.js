@@ -5,6 +5,7 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from 'firebase/auth';
 import { getAnalytics } from 'firebase/analytics';
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
+import './App.css'; // Ensure this import is correct
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
